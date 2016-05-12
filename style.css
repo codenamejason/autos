@@ -1,9 +1,12 @@
 body {
   background-color: blue;
-  color: white;
+  color: black;
 }
 
 div {
 
 }
 
+button {
+  radius: 3px;
+}
